@@ -8,8 +8,9 @@ body {
 
 img {
     background-color: rgb(229, 216, 200);
-    padding: 30px;
+    padding: 40px;
     width: 300px;
+    margin-top: auto;
     margin-right: 18px;
     border: 18px solid #f3edd9;
     border-radius: 30px;
