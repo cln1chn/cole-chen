@@ -1,6 +1,6 @@
 /* Place CSS styles here */
 body {
-    background-color:rgb(86, 104, 81);
+    background-color:rgb(135, 157, 129);
     color: beige;
     font-size: 18px;
     font-family: monospace;
@@ -22,6 +22,6 @@ div {
     margin-left: auto;
     margin-right: auto;
     margin: 40px auto;
-    border: 12px solid #b5eb86;
+    border: 36px solid #b5eb86;
     border-radius: 30px;
 }
