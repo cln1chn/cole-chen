@@ -36,6 +36,10 @@ div {
     border-radius: 20px;
 }
 
+.list {
+    color: rgb(196, 253, 110);
+}
+
 .Selector {
     color: #a8bbbb;
     font-size: larger;
