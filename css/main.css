@@ -1,19 +1,38 @@
 /* Place CSS styles here */
+html {
+    scroll-behavior: smooth;
+}
+
 body {
-    background-color:rgb(237, 234, 232);
-    color: rgb(255, 255, 255);
-    font-size: 24px;
+    background-color: #92a8a8;
+    color: #383e3e;
+    font-size: 16px;
     font-family: monospace;
 }
 
- img {
-    margin: auto;
- }
+a {
+    color: #590259;
+}
 
-.title {
-    background-color: black;
+h1 {
+    color: rgb(28, 44, 37);
+}
+
+img {
+    width: 250px;
+    margin-right: 16px;
+    border: 3px solid #5b3416;
+}
+
+div {
+    background-color: cyan;
     text-align: center;
-    color: rgb(255, 255, 255);
-    font-family: monospace;
-    font-size: 24px;
+    padding: 50px;
+    max-width: 900px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 40px auto;
+    border: 3px solid #5b3416;
+    border-radius: 20px;
 }
