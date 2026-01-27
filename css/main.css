@@ -36,6 +36,16 @@ div {
     border-radius: 20px;
 }
 
+.paragraph {
+    color: rgb(244, 253, 255);
+    text-align: justify;
+}
+
+.emphasis {
+    color: rgb(196, 253, 110);
+    font-weight: 700;
+}
+
 .list {
     color: rgb(196, 253, 110);
 }
