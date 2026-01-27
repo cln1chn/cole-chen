@@ -5,7 +5,7 @@ html {
 
 body {
     background-color: #92a8a8;
-    color: #383e3e;
+    color: #a8bbbb;
     font-size: 16px;
     font-family: monospace;
 }
@@ -15,24 +15,24 @@ a {
 }
 
 h1 {
-    color: rgb(28, 44, 37);
+    color: rgb(159, 184, 173);
 }
 
 img {
     width: 250px;
     margin-right: 16px;
-    border: 3px solid #c2ece8;
+    border: 4px solid #c2ece8;
 }
 
 div {
     background-color: rgb(83, 111, 122);
     text-align: center;
-    padding: 50px;
+    padding: 40px;
     max-width: 900px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin: 40px auto;
-    border: 3px solid #425b5d;
+    border: 8px solid #425b5d;
     border-radius: 20px;
 }
