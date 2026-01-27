@@ -51,6 +51,7 @@ div {
     border: 12px;
     border-radius: 50%;
     width: 200px;
+    padding: 40px;
 }
 
 .emphasis {
