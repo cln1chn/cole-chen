@@ -35,3 +35,11 @@ div {
     border: 8px solid #425b5d;
     border-radius: 20px;
 }
+
+.Selector {
+    color: #a8bbbb;
+}
+
+a:visited {
+    color: aquamarine;
+}
