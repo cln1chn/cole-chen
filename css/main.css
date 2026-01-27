@@ -68,6 +68,19 @@ div {
     font-size: larger;
 }
 
+.LSU {
+    background-color: rgb(129, 184, 206);
+    text-align: center;
+    padding: 10px;
+    max-width: 200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 20px auto;
+    border: 4px solid #5b8588;
+    border-radius: 60px;
+}
+
 a:visited {
     color: plum;
 }
