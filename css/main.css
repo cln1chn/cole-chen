@@ -41,6 +41,12 @@ div {
     text-align: justify;
 }
 
+.portrait {
+    border: 12px;
+    border-radius: 50%;
+    width: auto;
+}
+
 .emphasis {
     color: rgb(196, 253, 110);
     font-weight: 700;
