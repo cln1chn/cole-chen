@@ -36,6 +36,12 @@ div {
     border-radius: 20px;
 }
 
+.maintext {
+    font-size: larger;
+    color: cornsilk;
+    text-align: center;
+}
+
 .paragraph {
     color: rgb(244, 253, 255);
     text-align: justify;
