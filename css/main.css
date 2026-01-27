@@ -11,7 +11,7 @@ body {
 }
 
 a {
-    color: #590259;
+    color: #516b77;
 }
 
 h1 {
@@ -21,11 +21,11 @@ h1 {
 img {
     width: 250px;
     margin-right: 16px;
-    border: 3px solid #5b3416;
+    border: 3px solid #c2ece8;
 }
 
 div {
-    background-color: cyan;
+    background-color: rgb(83, 111, 122);
     text-align: center;
     padding: 50px;
     max-width: 900px;
@@ -33,6 +33,6 @@ div {
     margin-left: auto;
     margin-right: auto;
     margin: 40px auto;
-    border: 3px solid #5b3416;
+    border: 3px solid #425b5d;
     border-radius: 20px;
 }
