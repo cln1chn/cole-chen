@@ -69,7 +69,7 @@ div {
 }
 
 .LSU {
-    background-color: rgb(129, 184, 206);
+    background-color: rgb(43, 66, 75);
     text-align: center;
     padding: 10px;
     max-width: 200px;
@@ -78,7 +78,7 @@ div {
     margin-right: auto;
     margin: 20px auto;
     border: 4px solid #5b8588;
-    border-radius: 60px;
+    border-radius: 80px;
 }
 
 a:visited {
