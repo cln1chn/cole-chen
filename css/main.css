@@ -92,3 +92,8 @@ div {
 a:visited {
     color: plum;
 }
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
