@@ -20,10 +20,12 @@ h1 {
 
 h2 {
     color: rgb(169, 191, 182);
+    font-style: italic;
 }
 
 h3 {
     color: rgb(149, 173, 163);
+    font-size: smaller;
 }
 
 img {
@@ -90,7 +92,7 @@ div {
 }
 
 a:visited {
-    color: plum;
+    color: rgb(208, 117, 208);
 }
 
 ul, ol {
