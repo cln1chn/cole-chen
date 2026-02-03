@@ -21,13 +21,11 @@ h1 {
 h2 {
     color: rgb(169, 191, 182);
     font-style: italic;
-    border: 1px solid rgb(202, 224, 215);
 }
 
 h3 {
     color: rgb(149, 173, 163);
     font-size: smaller;
-    text-align: justify;
 }
 
 img {
@@ -54,8 +52,13 @@ div {
     text-align: center;
 }
 
+.header {
+    border: 1px solid rgb(202, 224, 215);
+    margin: auto;
+}
+
 .paragraph {
-    color: rgb(244, 253, 255);
+    color: rgb(149, 173, 163);
     text-align: justify;
 }
 
