@@ -21,6 +21,7 @@ h1 {
 h2 {
     color: rgb(169, 191, 182);
     font-style: italic;
+    border: 1px solid rgb(202, 224, 215);
 }
 
 h3 {
