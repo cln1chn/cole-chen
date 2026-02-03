@@ -47,6 +47,12 @@ div {
     border-radius: 20px;
 }
 
+.chelsea-market-regular {
+  font-family: "Chelsea Market", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .maintext {
     font-size: larger;
     color: cornsilk;
